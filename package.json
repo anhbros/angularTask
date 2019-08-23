@@ -1,0 +1,7 @@
+{
+    "name": "helloworld",
+    "version": "0.0.1",
+    "devDependencies": {
+        "html-loader": "^0.5.5"
+    }
+}
